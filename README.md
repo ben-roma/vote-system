@@ -93,7 +93,7 @@ Contributions are welcome! Please follow these steps to contribute:
 If you have any questions, feel free to reach out:
 
 * Author: Ben Obame
-* Email: your.email@example.com
+* Email: obameben@yahoo.fr
 
 
 ### Sections You Can Modify:
